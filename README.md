@@ -1,6 +1,3 @@
-# Project Name
-> Outline a brief description of your project.
-
 # LENDING CLUB CASE STUDY
 > A finance company has to identify risky loan applicants, based on their profile. 
 > Which controls loss of business of the company and avoid any financial loss.
