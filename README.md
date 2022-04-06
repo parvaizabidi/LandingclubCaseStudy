@@ -45,7 +45,7 @@
 
 ## Acknowledgements
 - Concepts of EDA.
-- Project is based on 'Lending Club Case Study'
+- Project is based on 'Lending Club Case Study'.
 
 
 ## Contact
